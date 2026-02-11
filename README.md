@@ -1,5 +1,5 @@
-# uzawareisa-ai
-AI persona of Uwaza Reisa, The Brainrot Skibidi Sigma
+# BlueArchive-Ai-app
+from blue archive
 
 02/09/2026
 
