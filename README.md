@@ -18,3 +18,9 @@ slow at keeping up
 creating the visual template into webapp
 uploading file push to repository
 mentalblocked
+
+02/12/2026
+
+finally upload file to github and netlify
+learning how to create chatbot
+
